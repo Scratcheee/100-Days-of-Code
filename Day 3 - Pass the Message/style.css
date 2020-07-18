@@ -1,0 +1,20 @@
+body {
+  background-color: #ff7043;
+}
+
+.jumbotron {
+  background-color: #ffab91;
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+.btn-primary {
+  background-color: #e64a19;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: #bf360c;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+/* TODO: CSS Show for error message. */
